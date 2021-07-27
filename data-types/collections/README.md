@@ -1,20 +1,20 @@
-The files in this directory contain several exercises for you to complete. 
+The files in this directory contain several exercises for you to complete.
 
-Before you begin, look at the Ruby Docs ([https://ruby-doc.org/core-2.6.5/](https://ruby-doc.org/core-2.6.5/)) for `Array` ([https://ruby-doc.org/core-2.6.5/Array.html](https://ruby-doc.org/core-2.6.5/Array.html)) and `Hash` ([https://ruby-doc.org/core-2.6.5/Hash.html](https://ruby-doc.org/core-2.6.5/Hash.html)). 
+Before you begin, look at the Ruby Docs ([https://ruby-doc.org/core-2.6.5/](https://ruby-doc.org/core-2.6.5/)) for `Array` ([https://ruby-doc.org/core-2.6.5/Array.html](https://ruby-doc.org/core-2.6.5/Array.html)) and `Hash` ([https://ruby-doc.org/core-2.6.5/Hash.html](https://ruby-doc.org/core-2.6.5/Hash.html)).
 
-Research the listed methods below for each exercise. You will need them to complete the exercises. 
+Research the listed methods below for each exercise. You will need them to complete the exercises.
 
 The exercises will require you to look up some additional methods not listed here.
 
-An alum has put together a video walk-through of the `arrays.rb` and `advanced_nested_collections` exercise. 
+An alum has put together a video walk-through of the `arrays.rb` and `advanced_nested_collections` exercise.
 
-Please check them out - you'll learn how to use `binding.pry` to quickly test ideas and assumptions, as well as many other useful approaches to solving problems with code. 
+Please check them out - you'll learn how to use `binding.pry` to quickly test ideas and assumptions, as well as many other useful approaches to solving problems with code.
 
 - `arrays.rb` walkthrough: [https://youtu.be/RUnd1Uu0AyE](https://youtu.be/RUnd1Uu0AyE)
 - `advanced_nested_collections/nesting_test.rb` walkthrough: [https://youtu.be/9AaElA4elDU](https://youtu.be/9AaElA4elDU)
 
 
-### Methods you'll need to use for `arrays.rb`
+### Methods you'll need to use for `arrays_spec.rb`
 
 * `[]` ([docs](https://ruby-doc.org/core-2.6.5/Array.html#method-i-5B-5D))
 * `[]=` ([docs](https://ruby-doc.org/core-2.6.5/Array.html#method-i-5B-5D-3D))
@@ -30,7 +30,7 @@ Please check them out - you'll learn how to use `binding.pry` to quickly test id
 * `shift` ([docs](https://ruby-doc.org/core-2.6.5/Array.html#method-i-shift))
 * `unshift` ([docs](https://ruby-doc.org/core-2.6.5/Array.html#method-i-unshift))
 
-### methods you'll need to use for `hashes.rb`
+### methods you'll need to use for `hashes_spec.rb`
 
 * `new(default)` - this version of .new gives the hash default values
 * `[]`
