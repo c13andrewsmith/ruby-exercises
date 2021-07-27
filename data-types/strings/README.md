@@ -1,4 +1,4 @@
-The `strings.rb` file has a number of exercises to help you better work with strings in ruby.
+The `strings_spec.rb` file in the `spec` folder has a number of exercises to help you better work with strings in ruby.
 
 Below is a list of methods that will help you complete the exercises - research each of them on the [Ruby Docs for Strings](https://ruby-doc.org/core-2.6.5/String.html) to learn more about what they do and how they are used.
 
