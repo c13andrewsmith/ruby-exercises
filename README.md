@@ -12,6 +12,22 @@ Each folder in this repository is a set of related exercises. Open up the folder
   1. How you need to manipulate or work with this file to complete the exercise.
   2. Some exercises will require you to manipulate the "current" file and run it. Other exercises will require you to create _new_ files and then reference those files for the "current" file to work.
 
+## Recommended Approach
+  + Data Types
+    - Strings
+    - Ints and Floats
+    - Collections
+      + Arrays
+      + Hashes
+      + Nested Collections
+  + Problem Solving
+  + Initialize
+  + Objects and Methods
+  + Iteration
+  + Enumerables
+  + Data Types/Collections/**Advanced Nested Collections**
+  + Mythical Creatures
+
 ## Setup
 
 ### 1. Clone this repository
@@ -211,7 +227,7 @@ $ gem install bundler
 ```
 
 If this command throws an error, you either:
-  1. Don't have `rbenv` installed
+  1. Don't have `rbenv` properly installed
   2. You've not yet installed a version of Ruby.
 
 Please check that you've followed [mod0 setup instructions](http://mod0.turing.io/setup-instructions)
