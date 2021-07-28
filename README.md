@@ -20,8 +20,8 @@ Each folder in this repository is a set of related exercises. Open up the folder
       + Arrays
       + Hashes
       + Nested Collections
+  + Initialize    
   + Problem Solving
-  + Initialize
   + Objects and Methods
   + Iteration
   + Enumerables
